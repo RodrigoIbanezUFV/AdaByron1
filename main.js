@@ -1,3 +1,3 @@
-let mensaje = "Mensaje de prueba.";
+let mensaje = "Texto para el segundo commit";
 
 console.log(mensaje);
